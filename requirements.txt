@@ -1,6 +1,8 @@
 streamlit>=1.27.0
 requests>=2.31.0
-pyautogen>=0.4.2.1
+pyautogen>=0.1.0
 google-generativeai>=0.3.0
 pandas>=2.0.0
 matplotlib>=3.7.0
+wordcloud>=2.3.0
+textblob>=0.17.1
